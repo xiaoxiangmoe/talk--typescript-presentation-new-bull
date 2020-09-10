@@ -1,0 +1,13 @@
+[production]
+# >0.2%
+# not dead
+# not op_mini all
+
+firefox > 0 and last 0.5 year
+chrome > 0 and last 1 year
+safari > 0 and last 2 years
+
+[development]
+last 1 chrome version
+last 1 firefox version
+last 1 safari version
